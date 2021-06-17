@@ -1,0 +1,3 @@
+// Macros are basically Preprocessor..
+/*
+Importance of macros are like it can be use as function in preprocessor...
