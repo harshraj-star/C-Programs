@@ -10,5 +10,5 @@ int main(){
 }
 
 /* Output :
-Infinite
+Infinite loop..
 */
